@@ -4,6 +4,8 @@
 
 main.c
 
+src\BUTTON.c
+
 src\LCD.c
 
 src\PORT.c
